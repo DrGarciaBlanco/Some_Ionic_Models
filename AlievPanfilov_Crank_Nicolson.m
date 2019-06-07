@@ -102,7 +102,7 @@ set(groot, 'defaultLegendInterpreter',       'latex');
 set(groot, 'defaulttextinterpreter',         'latex');  
 set(groot, 'defaultAxesTickLabelInterpreter','latex');  
 set(groot, 'defaultLegendInterpreter',       'latex');  
-set(gca,   'FontSize', 10)
+set(gca,   'FontSize', 8)
 
 
 figure(1)
